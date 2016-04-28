@@ -1,4 +1,4 @@
-1
+2
 |||
 [B]SR ENTS IMPORTANT NEWS[/B]
 
@@ -9,6 +9,6 @@ The number in line one is made 1 number higher to push the message to users.
 [COLOR white]This makes a color[/COLOR][/B] 
 [B]This makes the text bold[/B]
 
-Keep the length of the lines.......................................this long
+Keep the length of the lines......................................................................this long
 
 End the news feed here [B]www.addyourwebsite.com[/B]
